@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Sobre mim:
 💬 - Sou estudante de ADS<br>🧑‍💻 - Estou à procura de um Estágio :)
 
 
