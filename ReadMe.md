@@ -6,11 +6,13 @@ SOBRE MIM:<br><br>
 <br>
 
 TECNOLOGIAS:<br>
+- Figma
+- Wordpress e Elementor
 - HTML e CSS
 - Vite e React
 - JavaScript e TypeScript
 - POO com Java (Eclipse)
-- Python
+- Python (com JSON)
 - SQL (Oracle SQL Developer)
   
 <br>
