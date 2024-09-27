@@ -12,7 +12,7 @@ TECNOLOGIAS:<br>
 - Vite e React
 - JavaScript e TypeScript
 - POO com Java (Eclipse)
-- Python (com JSON)
+- Python e JSON
 - SQL (Oracle SQL Developer)
   
 <br>
